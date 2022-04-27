@@ -1,9 +1,13 @@
 
 ## 2022
-
+- SM@LHC workshop, CERN: [Global interpretation of Higgs, diboson, and top quark production & decay](2022/SMatLHC.pdf)
 
 ## 2021
-
+- University of Heidelberg, Phenomenology Seminar: [Parton Distributions in the SMEFT from high-energy Drell-Yan tails](2021/Heidelberg.pdf)
+- University of Cambridge, Cavendish HEP Seminar: [Interpreting LHC data using the Standard Model Effective Field Theory](2021/Cavendish.pdf)
+- European Physics Society Conference on High Energy Physics, online: [Parton Distributions in the SMEFT from high-energy Drell-Yan tails](2021/EPSHEP.pdf)
+- Higgs and Effective Field Theory workshop, online: [Top, Higgs, Diboson and Electroweak Fit to the Standard Model Effective Field Theory](2021/HEFT.pdf)
+- LHC EFT Working Group 'Fits and Systematics' Meeting, online: [Fitmaker](2021/LHCEFTWG.pdf)
 
 
 ## 2020
