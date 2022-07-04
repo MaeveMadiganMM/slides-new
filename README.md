@@ -1,7 +1,7 @@
 
 ## 2022
-- WG1-GLOB ECFA workshop, online: [SMEFT Analysis of the W mass] (2022/MW_MMadigan.pdf)
-- Higgs and Effective Field Theory Workshop, University of Granada: [Parton Distributions in the SMEFT from high-energy Drell-Yan tails] (2022/MMadigan_HEFT.pdf)
+- WG1-GLOB ECFA workshop, online: [SMEFT Analysis of the W mass](2022/MW_MMadigan.pdf)
+- Higgs and Effective Field Theory Workshop, University of Granada: [Parton Distributions in the SMEFT from high-energy Drell-Yan tails](2022/MMadigan_HEFT.pdf)
 - SM@LHC workshop, CERN: [Global interpretation of Higgs, diboson, and top quark production & decay](2022/SMatLHC.pdf)
 
 
