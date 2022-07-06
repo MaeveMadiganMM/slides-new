@@ -1,5 +1,6 @@
 
 ## 2022
+- Deep Learning Era of Particle Physics, workshop at Mainz: [Machine Learning and Effective Field Theories](2022/DLEP_MM.pdf)
 - WG1-GLOB ECFA workshop, online: [SMEFT Analysis of the W mass](2022/MW_MMadigan.pdf)
 - Higgs and Effective Field Theory Workshop, University of Granada: [Parton Distributions in the SMEFT from high-energy Drell-Yan tails](2022/MMadigan_HEFT.pdf)
 - SM@LHC workshop, CERN: [Global interpretation of Higgs, diboson, and top quark production & decay](2022/SMatLHC.pdf)
